@@ -1,0 +1,8 @@
+# Share only stable, vault-wide Obsidian settings.
+.obsidian/*
+!.obsidian/app.json
+
+# Local Obsidian and operating-system files.
+.trash/
+.DS_Store
+Thumbs.db
