@@ -39,7 +39,7 @@ The West was not a stable third section. Western representatives sometimes align
 
 ## Slavery and Political Balance
 
-The [[Missouri Compromise]] admitted Missouri as a slave state and Maine as a free state while drawing a line for slavery in the remaining [[Louisiana Purchase]] territory. It preserved Senate balance and revealed that expansion could turn slavery into a national constitutional crisis.
+The [[Missouri Compromise]] admitted Missouri as a slave state and Maine as a free state while drawing a line for slavery in the remaining [[../../../terms/Period 4/Louisiana Purchase]] territory. It preserved Senate balance and revealed that expansion could turn slavery into a national constitutional crisis.
 
 During the 1830s, abolitionist petitions, the gag rule, and resistance to abolition sharpened mistrust. Southern leaders defended slavery as essential to their economy and social order. Many northerners who rejected abolition nevertheless opposed what they called the Slave Power's influence over the federal government.
 

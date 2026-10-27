@@ -267,7 +267,7 @@ Terms are assigned one primary home only. A term belongs in **Long-term** when i
 ### Priority 4
 
 - [[Election of 1800]]
-- [[Louisiana Purchase]]
+- [[../../terms/Period 4/Louisiana Purchase]]
 - [[War of 1812]]
 - [[Monroe Doctrine]]
 - [[American System]]

@@ -6,7 +6,7 @@ apush-priority: 4
 status: stub
 ---
 
-> **Thomas Jefferson** drafted the [[Declaration of Independence]], served as the first secretary of state, led the Democratic-Republican opposition, and was president from 1801 to 1809. He celebrated [[Natural Rights]], agrarian independence, religious liberty, and limited national power, yet his policies often required pragmatic departures from those principles. The [[Louisiana Purchase]] doubled U.S. territory, while the Embargo Act expanded federal economic coercion. For APUSH, Jefferson embodies a central founding contradiction: he articulated universal equality while enslaving people and supporting a republic whose expansion threatened Native sovereignty.
+> **Thomas Jefferson** drafted the [[Declaration of Independence]], served as the first secretary of state, led the Democratic-Republican opposition, and was president from 1801 to 1809. He celebrated [[Natural Rights]], agrarian independence, religious liberty, and limited national power, yet his policies often required pragmatic departures from those principles. The [[../../../terms/Period 4/Louisiana Purchase]] doubled U.S. territory, while the Embargo Act expanded federal economic coercion. For APUSH, Jefferson embodies a central founding contradiction: he articulated universal equality while enslaving people and supporting a republic whose expansion threatened Native sovereignty.
 
 ## APUSH Significance
 
