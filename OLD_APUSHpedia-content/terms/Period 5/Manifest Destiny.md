@@ -22,7 +22,7 @@ Manifest Destiny differs from [[Westward Expansion]], the longer process of terr
 
 ## Earlier Foundations
 
-The United States had expanded long before the phrase appeared. The [[Louisiana Purchase]], Native land cessions, [[Indian Removal]], and settlement beyond the Appalachians established a pattern of government-supported growth.
+The United States had expanded long before the phrase appeared. The [[../../../terms/Period 4/Louisiana Purchase]], Native land cessions, [[Indian Removal]], and settlement beyond the Appalachians established a pattern of government-supported growth.
 
 Republican ideology associated landownership with independent citizenship. Population growth, the [[Market Revolution]], and transportation increased demand for western farms, trade routes, ports, and resources.
 

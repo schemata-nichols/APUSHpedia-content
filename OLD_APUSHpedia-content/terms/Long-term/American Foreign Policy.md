@@ -31,7 +31,7 @@ These policies combined principle with practical weakness. Neutrality protected 
 
 ## Continental Expansion
 
-Foreign policy became an instrument of territorial growth. The [[Louisiana Purchase]] doubled the country's claimed territory through diplomacy, while the [[Adams–Onís Treaty]] secured Florida and defined a western boundary. In the 1840s, [[Manifest Destiny]] joined expansion to claims about providence, racial superiority, and democratic development.
+Foreign policy became an instrument of territorial growth. The [[../../../terms/Period 4/Louisiana Purchase]] doubled the country's claimed territory through diplomacy, while the [[Adams–Onís Treaty]] secured Florida and defined a western boundary. In the 1840s, [[Manifest Destiny]] joined expansion to claims about providence, racial superiority, and democratic development.
 
 The annexation of Texas and the [[Mexican–American War]] produced the [[Mexican Cession]], extending the United States to the Pacific. Expansion increased agricultural and commercial opportunity for settlers, but it also displaced Native and Mexican communities and reopened the dispute over [[Slavery|slavery]]'s expansion. Foreign policy therefore fed directly into the [[Sectional Crisis]].
 

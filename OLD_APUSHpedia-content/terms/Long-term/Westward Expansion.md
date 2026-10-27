@@ -27,7 +27,7 @@ After independence, the United States claimed land west of the Appalachians that
 
 Settlers crossed treaty boundaries, while federal officials used negotiations, annuities, military campaigns, and land cessions to reduce Native control. Native confederacies resisted, and outcomes depended on diplomacy and war rather than an inevitable flow of population.
 
-The [[Louisiana Purchase]] doubled the nation's claimed territory in 1803. The [[Lewis and Clark Expedition|Lewis and Clark expedition]] gathered geographic and diplomatic information, while traders and migrants expanded American presence. The purchase raised constitutional questions and placed many Native nations within borders asserted by the United States without their consent.
+The [[../../../terms/Period 4/Louisiana Purchase]] doubled the nation's claimed territory in 1803. The [[Lewis and Clark Expedition|Lewis and Clark expedition]] gathered geographic and diplomatic information, while traders and migrants expanded American presence. The purchase raised constitutional questions and placed many Native nations within borders asserted by the United States without their consent.
 
 ## Market Growth and Removal
 
