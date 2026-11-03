@@ -6,7 +6,7 @@ apush-priority: 4
 status: stub
 ---
 
-> **Consumer culture** describes a society in which purchasing goods and services becomes a major way people express status, identity, comfort, and belonging. It developed unevenly as the [[Market Revolution]], mass production, advertising, department stores, installment credit, and rising incomes expanded access to commodities. Consumption could offer convenience and choice, particularly during the [[Roaring Twenties]] and [[Postwar Economic Boom]], but access remained divided by class, race, gender, and geography. For APUSH, consumer culture connects economic growth to changing social identities while revealing the labor and environmental costs hidden behind abundance.
+> **Consumer culture** describes a society in which purchasing goods and services becomes a major way people express status, identity, comfort, and belonging. It developed unevenly as the [[../Period 4/Market Revolution]], mass production, advertising, department stores, installment credit, and rising incomes expanded access to commodities. Consumption could offer convenience and choice, particularly during the [[Roaring Twenties]] and [[Postwar Economic Boom]], but access remained divided by class, race, gender, and geography. For APUSH, consumer culture connects economic growth to changing social identities while revealing the labor and environmental costs hidden behind abundance.
 
 ## APUSH Significance
 

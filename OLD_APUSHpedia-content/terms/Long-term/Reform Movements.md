@@ -31,7 +31,7 @@ Early campaigns against slavery, alcohol, and unequal education established meth
 
 ## Antebellum Reform
 
-The [[Second Great Awakening]] and [[Market Revolution]] helped create the broadest early reform wave. Revivalism encouraged belief that individuals and society could overcome sin. Expanding print and transportation allowed voluntary associations to coordinate across communities, while [[Urbanization|urbanization]] and market disruption made poverty, disorder, and inequality more visible.
+The [[../Period 4/Second Great Awakening]] and [[../Period 4/Market Revolution]] helped create the broadest early reform wave. Revivalism encouraged belief that individuals and society could overcome sin. Expanding print and transportation allowed voluntary associations to coordinate across communities, while [[Urbanization|urbanization]] and market disruption made poverty, disorder, and inequality more visible.
 
 [[Antebellum Reform]] included temperance, common schools, prisons and asylums, [[Utopian Communities|utopian communities]], [[Abolitionism]], and [[Women's Rights|women's rights]]. These movements overlapped but did not form one program. Temperance could protect families from alcohol abuse while imposing Protestant middle-class standards. Schools widened access while promoting cultural conformity.
 

@@ -43,7 +43,7 @@ Filipino nationalists under Emilio Aguinaldo expected independence after fightin
 
 American officials established schools, infrastructure, and civil administration while denying immediate self-government. Supporters called this benevolent assimilation; critics emphasized that improvements imposed through conquest did not create consent.
 
-The [[Anti-Imperialist League]], including figures such as Mark Twain and [[Andrew Carnegie]], argued that empire betrayed the [[Declaration of Independence]]. Expansionists replied that withdrawal would invite disorder or rival powers and that the islands offered strategic and commercial advantages.
+The [[Anti-Imperialist League]], including figures such as Mark Twain and [[Andrew Carnegie]], argued that empire betrayed the [[../Period 3/Declaration of Independence]]. Expansionists replied that withdrawal would invite disorder or rival powers and that the islands offered strategic and commercial advantages.
 
 ## Informal Empire and Presidential Diplomacy
 

@@ -57,7 +57,7 @@ War changed what politics could accomplish. Enslaved people fled to Union lines,
 
 Abolitionists transformed public debate, but they neither acted as a unified movement nor single-handedly freed enslaved people. Their influence interacted with Black resistance, religious reform, party conflict, western expansion, and wartime necessity. Most northerners did not enter the Civil War committed to abolition or racial equality.
 
-The movement also reveals a recurring APUSH contradiction. Activists used the [[Declaration of Independence]], Christianity, [[Natural Rights|natural rights]], and the Constitution to demand freedom, yet racial prejudice persisted inside antislavery organizations and throughout the free states. Abolitionism was therefore both a successful attack on legal slavery and an unfinished struggle over the meaning of American equality.
+The movement also reveals a recurring APUSH contradiction. Activists used the [[../Period 3/Declaration of Independence]], Christianity, [[Natural Rights|natural rights]], and the Constitution to demand freedom, yet racial prejudice persisted inside antislavery organizations and throughout the free states. Abolitionism was therefore both a successful attack on legal slavery and an unfinished struggle over the meaning of American equality.
 
 ## Sources
 

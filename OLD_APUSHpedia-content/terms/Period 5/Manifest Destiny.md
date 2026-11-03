@@ -24,7 +24,7 @@ Manifest Destiny differs from [[Westward Expansion]], the longer process of terr
 
 The United States had expanded long before the phrase appeared. The [[../../../terms/Period 4/Louisiana Purchase]], Native land cessions, [[Indian Removal]], and settlement beyond the Appalachians established a pattern of government-supported growth.
 
-Republican ideology associated landownership with independent citizenship. Population growth, the [[Market Revolution]], and transportation increased demand for western farms, trade routes, ports, and resources.
+Republican ideology associated landownership with independent citizenship. Population growth, the [[../Period 4/Market Revolution]], and transportation increased demand for western farms, trade routes, ports, and resources.
 
 These material interests interacted with belief. Expansionists presented American institutions and Protestant culture as superior, turning political choices into a story of inevitable progress.
 

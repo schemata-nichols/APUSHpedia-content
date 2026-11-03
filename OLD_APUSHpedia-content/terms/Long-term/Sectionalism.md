@@ -31,7 +31,7 @@ The [[First Party System|first party system]] crossed regional lines, but foreig
 
 ## Economic Development and the West
 
-The [[Market Revolution]] integrated regions while making their production more specialized. Northeastern manufacturing used western food and southern cotton. The Old Northwest developed commercial agriculture, while the Deep South expanded the [[Cotton Kingdom]] through enslaved labor.
+The [[../Period 4/Market Revolution]] integrated regions while making their production more specialized. Northeastern manufacturing used western food and southern cotton. The Old Northwest developed commercial agriculture, while the Deep South expanded the [[Cotton Kingdom]] through enslaved labor.
 
 Integration did not guarantee political agreement. Tariffs benefited some manufacturers but raised objections among southern exporters. The [[American System]] proposed a national bank, protective tariff, and internal improvements to bind regions together, but arguments over cost and constitutional authority limited the program.
 

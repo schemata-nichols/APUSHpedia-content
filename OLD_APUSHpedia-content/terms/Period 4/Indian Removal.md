@@ -53,7 +53,7 @@ Other nations experienced their own removals. Choctaw removal began earlier in t
 
 Indian removal was carried out by national institutions but served state and local demands. Congress supplied statutory authority, the president directed enforcement, states claimed jurisdiction, courts defined legal boundaries, and the military implemented removal. It is therefore both a story of [[Federalism]] and of national power.
 
-The policy also shows why [[Westward Expansion]] cannot be described as settlement of empty land. Expansion involved competing sovereignties and government action that transferred land from Native peoples to white settlers. In the Southeast, that transfer supported the expansion of plantation agriculture and [[Chattel Slavery|chattel slavery]].
+The policy also shows why [[Westward Expansion]] cannot be described as settlement of empty land. Expansion involved competing sovereignties and government action that transferred land from Native peoples to white settlers. In the Southeast, that transfer supported the expansion of plantation agriculture and [[../Period 2/Chattel Slavery|chattel slavery]].
 
 Jacksonian Democracy expanded participation and celebrated majority rule among white men. Removal demonstrates the other side of that majority: people excluded from the electorate could have treaties and legal claims overridden when their land served the interests of voters and states. This contradiction is more historically useful than treating democracy and removal as unrelated topics.
 

@@ -14,7 +14,7 @@ The United States displaced Native nations and acquired continental territory th
 
 ## Empire and Influence
 
-The [[Anti-Imperialist League]] argued that colonial rule violated the [[Declaration of Independence]], but the United States retained territories and expanded influence through the [[Open Door Policy]], the Panama Canal, and repeated intervention in Latin America. Later decolonization reduced formal empire without ending military bases, territorial possessions, or economic influence. Imperialism differs from [[American Foreign Policy]] generally because it emphasizes unequal control; it also overlaps with [[American Imperialism]], the concentrated late-nineteenth-century phase. Its history connects foreign power to domestic debates over race, citizenship, constitutional rights, and national identity.
+The [[Anti-Imperialist League]] argued that colonial rule violated the [[../Period 3/Declaration of Independence]], but the United States retained territories and expanded influence through the [[Open Door Policy]], the Panama Canal, and repeated intervention in Latin America. Later decolonization reduced formal empire without ending military bases, territorial possessions, or economic influence. Imperialism differs from [[American Foreign Policy]] generally because it emphasizes unequal control; it also overlaps with [[American Imperialism]], the concentrated late-nineteenth-century phase. Its history connects foreign power to domestic debates over race, citizenship, constitutional rights, and national identity.
 
 ## Continental Foundations
 

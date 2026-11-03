@@ -18,7 +18,7 @@ Industrialization connects economic change to [[Migration|migration]], class, po
 4. **Industrial growth encouraged migration and urbanization.** Immigrants and internal migrants supplied labor and built new communities around workplaces.
 5. **Concentrated economic power generated reform.** Unions, farmers, Progressives, and New Dealers demanded regulation, bargaining rights, and social protection.
 
-Industrialization should be distinguished from the broader [[Market Revolution]]. The Market Revolution expanded commercial exchange, transportation, and finance; industrialization more specifically changed how goods were produced.
+Industrialization should be distinguished from the broader [[../Period 4/Market Revolution]]. The Market Revolution expanded commercial exchange, transportation, and finance; industrialization more specifically changed how goods were produced.
 
 ## Early Manufacturing
 

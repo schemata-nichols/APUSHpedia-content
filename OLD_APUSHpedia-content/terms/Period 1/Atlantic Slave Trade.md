@@ -7,7 +7,7 @@ apush-priority: 4
 status: stub
 ---
 
-> The **Atlantic slave trade** was the forced transportation of millions of Africans across the Atlantic from the sixteenth through nineteenth centuries, primarily to labor in plantation and mining economies in the Americas. European merchants, African political and commercial actors, and American colonists participated in a system driven by demand for labor and commodities, but enslaved people experienced capture, family separation, the [[Middle Passage]], sale, and hereditary bondage. For APUSH, the trade explains the growth of [[Chattel Slavery]], the [[Atlantic Economy]], and racial ideology while connecting colonial North America to a much larger African and American history.
+> The **Atlantic slave trade** was the forced transportation of millions of Africans across the Atlantic from the sixteenth through nineteenth centuries, primarily to labor in plantation and mining economies in the Americas. European merchants, African political and commercial actors, and American colonists participated in a system driven by demand for labor and commodities, but enslaved people experienced capture, family separation, the [[Middle Passage]], sale, and hereditary bondage. For APUSH, the trade explains the growth of [[../Period 2/Chattel Slavery]], the [[Atlantic Economy]], and racial ideology while connecting colonial North America to a much larger African and American history.
 
 ## APUSH Significance
 
@@ -29,7 +29,7 @@ Sugar cultivation in Brazil and the Caribbean generated especially intense deman
 
 The trade changed Africa as well as the Americas. It intensified conflict in some regions, shifted political power, removed millions of people, and altered population patterns. Its effects differed across a large and diverse continent, so a single narrative of uniform devastation is inadequate. In the Americas, survivors combined knowledge from many African societies to build new languages, religions, foods, music, and family practices under coercive conditions.
 
-The United States prohibited legal participation in the transatlantic trade beginning in 1808, but illegal importations continued and the domestic slave trade expanded dramatically. Forced movement from the Upper South to the [[Cotton Kingdom]] reproduced the separation and sale of families within national borders. The Atlantic Slave Trade is therefore a foundation of [[Chattel Slavery]] and Atlantic commerce, while remaining distinct from the later internal trade that sustained U.S. slavery.
+The United States prohibited legal participation in the transatlantic trade beginning in 1808, but illegal importations continued and the domestic slave trade expanded dramatically. Forced movement from the Upper South to the [[Cotton Kingdom]] reproduced the separation and sale of families within national borders. The Atlantic Slave Trade is therefore a foundation of [[../Period 2/Chattel Slavery]] and Atlantic commerce, while remaining distinct from the later internal trade that sustained U.S. slavery.
 
 ## Sources
 

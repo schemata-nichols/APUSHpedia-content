@@ -23,7 +23,7 @@ A political party differs from an interest group or social movement. Parties see
 
 ## The [[First Party System]]
 
-The first parties formed from conflict inside [[George Washington]]'s administration. [[Alexander Hamilton]] supported a national bank, commercial development, broad [[Constitutional Interpretation|constitutional interpretation]], and closer relations with Britain. [[Thomas Jefferson]] and James Madison feared concentrated federal power and organized opposition around agrarianism, strict construction, and sympathy for France.
+The first parties formed from conflict inside [[George Washington]]'s administration. [[Alexander Hamilton]] supported a national bank, commercial development, broad [[Constitutional Interpretation|constitutional interpretation]], and closer relations with Britain. [[../Period 3/Thomas Jefferson]] and James Madison feared concentrated federal power and organized opposition around agrarianism, strict construction, and sympathy for France.
 
 [[Federalists]] and Democratic-Republicans created newspapers, congressional coordination, and local networks despite claiming to oppose faction. The [[Election of 1800]] produced a peaceful transfer between rival parties, helping establish opposition as legitimate. Federalists later declined because of regional concentration, internal division, and opposition to the [[War of 1812]].
 

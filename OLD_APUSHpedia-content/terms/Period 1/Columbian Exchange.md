@@ -32,7 +32,7 @@ Europeans often interpreted epidemics as evidence of divine favor or empty land.
 
 American crops included maize, potatoes, tomatoes, cacao, tobacco, and varieties of beans and squash. Maize and potatoes produced substantial calories in environments where some Old World crops performed poorly. Their adoption supported demographic growth and changed agricultural systems beyond the Americas.
 
-Europeans brought wheat, rice, citrus, coffee, and sugarcane. Sugar became especially important because European demand encouraged plantation systems in the Caribbean and parts of mainland America. Its cultivation required intensive labor and capital, linking biological exchange to imperial competition and racial [[Chattel Slavery]].
+Europeans brought wheat, rice, citrus, coffee, and sugarcane. Sugar became especially important because European demand encouraged plantation systems in the Caribbean and parts of mainland America. Its cultivation required intensive labor and capital, linking biological exchange to imperial competition and racial [[../Period 2/Chattel Slavery]].
 
 Food transfer was not automatic. Farmers adapted crops through knowledge, experimentation, and local labor. The term “exchange” should not imply that all participants controlled the process equally.
 

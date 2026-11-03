@@ -10,7 +10,7 @@ status: stub
 
 ## APUSH Significance
 
-The conflict began during the [[Ratification Debate]] and the [[First Party System]]. [[Alexander Hamilton]] defended broad implied powers, while [[Thomas Jefferson]] initially favored a stricter reading of federal authority. In *[[McCulloch v. Maryland]]*, the [[Marshall Court]] upheld implied powers and federal supremacy; later controversies over nullification, slavery, secession, and wartime authority showed that constitutional disagreements could become sectional crises. After the Civil War, the [[Reconstruction Amendments]] changed the constitutional relationship among federal power, states, and individual rights, although court decisions often narrowed their immediate reach.
+The conflict began during the [[Ratification Debate]] and the [[First Party System]]. [[Alexander Hamilton]] defended broad implied powers, while [[../Period 3/Thomas Jefferson]] initially favored a stricter reading of federal authority. In *[[McCulloch v. Maryland]]*, the [[Marshall Court]] upheld implied powers and federal supremacy; later controversies over nullification, slavery, secession, and wartime authority showed that constitutional disagreements could become sectional crises. After the Civil War, the [[Reconstruction Amendments]] changed the constitutional relationship among federal power, states, and individual rights, although court decisions often narrowed their immediate reach.
 
 ## Institutions and Change
 

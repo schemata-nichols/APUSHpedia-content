@@ -11,7 +11,7 @@ status: stub
 
 ## APUSH Significance
 
-Atlantic navigation and weaponry aided colonization, while the cotton gin made short-staple cotton more profitable and helped expand [[Slavery]]. During the [[Market Revolution]], steamboats, canals, railroads, machine tools, and the telegraph linked regional markets and accelerated migration. Later, electricity, steel, petroleum, and mass production supported [[Industrial Capitalism]], large corporations, cities, and a national [[Consumer Culture]]. These systems increased output and connection but also produced dangerous work, concentrated wealth, environmental damage, and new forms of managerial control.
+Atlantic navigation and weaponry aided colonization, while the cotton gin made short-staple cotton more profitable and helped expand [[Slavery]]. During the [[../Period 4/Market Revolution]], steamboats, canals, railroads, machine tools, and the telegraph linked regional markets and accelerated migration. Later, electricity, steel, petroleum, and mass production supported [[Industrial Capitalism]], large corporations, cities, and a national [[Consumer Culture]]. These systems increased output and connection but also produced dangerous work, concentrated wealth, environmental damage, and new forms of managerial control.
 
 ## Systems and Consequences
 

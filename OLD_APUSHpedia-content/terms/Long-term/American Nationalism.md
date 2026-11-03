@@ -14,7 +14,7 @@ Nationalism helps explain why events that strengthened the Union could also deep
 
 ## Changing Meanings
 
-Later nationalism accompanied overseas expansion in the 1890s, mobilization during [[World War I]] and [[World War II]], and Cold War claims that the United States defended democracy. These moments created common purpose but also encouraged coercion, including wartime repression and pressure to assimilate. Civil rights activists appealed to national ideals in the [[Declaration of Independence]] and Constitution to expose unequal citizenship. American nationalism is thus not identical to patriotism or federal power; it is an argument about the nation's people, purposes, and obligations whose meaning changes as excluded groups claim inclusion.
+Later nationalism accompanied overseas expansion in the 1890s, mobilization during [[World War I]] and [[World War II]], and Cold War claims that the United States defended democracy. These moments created common purpose but also encouraged coercion, including wartime repression and pressure to assimilate. Civil rights activists appealed to national ideals in the [[../Period 3/Declaration of Independence]] and Constitution to expose unequal citizenship. American nationalism is thus not identical to patriotism or federal power; it is an argument about the nation's people, purposes, and obligations whose meaning changes as excluded groups claim inclusion.
 
 ## Symbols, Institutions, and Belonging
 
