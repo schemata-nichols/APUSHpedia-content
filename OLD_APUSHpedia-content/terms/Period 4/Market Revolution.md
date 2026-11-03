@@ -6,7 +6,7 @@ apush-priority: 5
 status: stub
 ---
 
-> The **Market Revolution** was the early nineteenth-century transformation that connected more Americans to distant markets through commercial agriculture, factories, wage labor, banks, and faster transportation and communication. It did not replace local production everywhere at once. Instead, it reorganized how goods, labor, and capital moved, encouraging the Northeast, Old Northwest, and South to specialize while becoming economically interdependent. For APUSH, its importance lies in that combination: economic growth and consumer choice expanded, but so did class conflict, [[Environmental Change|environmental change]], dependence on [[Chattel Slavery|enslaved labor]], and political arguments over who should direct national development.
+> The **Market Revolution** was the early nineteenth-century transformation that connected more Americans to distant markets through commercial agriculture, factories, wage labor, banks, and faster transportation and communication. It did not replace local production everywhere at once. Instead, it reorganized how goods, labor, and capital moved, encouraging the Northeast, Old Northwest, and South to specialize while becoming economically interdependent. For APUSH, its importance lies in that combination: economic growth and consumer choice expanded, but so did class conflict, [[Environmental Change|environmental change]], dependence on [[../Period 2/Chattel Slavery|enslaved labor]], and political arguments over who should direct national development.
 
 ## APUSH Significance
 

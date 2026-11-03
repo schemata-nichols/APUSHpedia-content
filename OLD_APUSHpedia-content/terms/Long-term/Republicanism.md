@@ -27,11 +27,11 @@ British colonists drew on English traditions that warned of conspiracies against
 
 Patriot writers argued that [[Taxation Without Representation|taxation without representation]] violated consent. Boycotts and committees asked citizens to sacrifice private convenience for public liberty. The [[American Revolution]] thus depended on both rights and civic virtue: a free people had to resist corruption and govern themselves responsibly.
 
-The [[Declaration of Independence]] grounded government in [[Natural Rights|natural rights]] and popular consent. Its language was broader than actual political membership, creating a contradiction later reformers could exploit.
+The [[../Period 3/Declaration of Independence]] grounded government in [[Natural Rights|natural rights]] and popular consent. Its language was broader than actual political membership, creating a contradiction later reformers could exploit.
 
 ## Building a Republic
 
-Independence raised the problem of constructing authority without recreating monarchy. State constitutions established elected legislatures, and the [[Articles of Confederation]] preserved extensive state sovereignty. Economic instability and weak national capacity later convinced many leaders that liberty also required effective government.
+Independence raised the problem of constructing authority without recreating monarchy. State constitutions established elected legislatures, and the [[../Period 3/Articles of Confederation]] preserved extensive state sovereignty. Economic instability and weak national capacity later convinced many leaders that liberty also required effective government.
 
 The [[United States Constitution]] created a stronger federal republic with separated powers, checks and balances, and representation. Federalists argued that a large republic could control factions and protect stability. [[Anti-Federalists]] feared distant authority and demanded a [[Bill of Rights]].
 
@@ -39,9 +39,9 @@ Both sides spoke in republican terms. Their disagreement concerned which institu
 
 ## Competing Economic Visions
 
-[[Alexander Hamilton]] believed public credit, manufacturing, and a national bank would make the republic secure and prosperous. [[Thomas Jefferson]] feared that financiers, cities, and centralized authority could create dependence. He idealized independent farmers as citizens capable of political judgment.
+[[Alexander Hamilton]] believed public credit, manufacturing, and a national bank would make the republic secure and prosperous. [[../Period 3/Thomas Jefferson]] feared that financiers, cities, and centralized authority could create dependence. He idealized independent farmers as citizens capable of political judgment.
 
-These arguments persisted as the [[Market Revolution]] expanded banks, [[Wage Labor|wage labor]], corporations, and commerce. [[Jacksonian Democracy]] attacked the Second Bank as a privileged monopoly while building a powerful presidency and party organization. Whigs answered that economic development and moral reform strengthened republican society.
+These arguments persisted as the [[../Period 4/Market Revolution]] expanded banks, [[Wage Labor|wage labor]], corporations, and commerce. [[Jacksonian Democracy]] attacked the Second Bank as a privileged monopoly while building a powerful presidency and party organization. Whigs answered that economic development and moral reform strengthened republican society.
 
 The ideal of free labor later distinguished northern republicanism from slavery. Republicans argued that western land should allow independent farmers and workers to rise through their own labor. This vision opposed slavery's expansion but did not necessarily include racial equality.
 

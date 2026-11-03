@@ -19,7 +19,7 @@ Slavery connects labor and race to the country's major political transformations
 4. **Expansion made slavery a national political crisis.** Each new territory raised questions about representation, property, and the future balance of power.
 5. **Emancipation changed the Constitution but not every hierarchy.** Abolition ended legal ownership of people, while struggles over labor, [[Citizenship|citizenship]], land, and racial violence continued.
 
-Slavery should be distinguished from other coerced labor systems. [[Indentured Servitude]] was contractually limited; racial [[Chattel Slavery]] generally lasted for life, passed to children, and denied personhood through property law.
+Slavery should be distinguished from other coerced labor systems. [[Indentured Servitude]] was contractually limited; racial [[../Period 2/Chattel Slavery]] generally lasted for life, passed to children, and denied personhood through property law.
 
 ## Colonial Development
 

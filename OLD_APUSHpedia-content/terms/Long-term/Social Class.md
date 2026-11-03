@@ -11,7 +11,7 @@ status: stub
 
 ## APUSH Significance
 
-Colonial societies ranged from small-farm communities to plantation regions dominated by wealthy landholders and dependent labor. The [[Market Revolution]] expanded a commercial middle class and wage-earning workforce while reducing many artisans' control over production. After the Civil War, [[Industrial Capitalism]] produced vast corporate fortunes and an insecure industrial working class. The resulting strikes, the [[Labor Movement]], and [[Populism]] turned unequal economic power into a major political issue during the [[Gilded Age]]. Reformers disagreed over whether opportunity, union power, regulation, or redistribution offered the best response.
+Colonial societies ranged from small-farm communities to plantation regions dominated by wealthy landholders and dependent labor. The [[../Period 4/Market Revolution]] expanded a commercial middle class and wage-earning workforce while reducing many artisans' control over production. After the Civil War, [[Industrial Capitalism]] produced vast corporate fortunes and an insecure industrial working class. The resulting strikes, the [[Labor Movement]], and [[Populism]] turned unequal economic power into a major political issue during the [[Gilded Age]]. Reformers disagreed over whether opportunity, union power, regulation, or redistribution offered the best response.
 
 ## Mobility and Inequality
 

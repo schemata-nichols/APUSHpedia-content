@@ -10,7 +10,7 @@ status: stub
 
 ## APUSH Significance
 
-Puritan New England linked church and civic order, while the [[First Great Awakening]] challenged established authority and created networks across colonies. After independence, disestablishment expanded denominational competition. The [[Second Great Awakening]] emphasized conversion and moral agency, helping energize [[Antebellum Reform]], abolition, temperance, and women's activism. At the same time, white Christians divided over slavery, and enslaved people developed religious practices that combined Christian teachings with communal survival and resistance.
+Puritan New England linked church and civic order, while the [[First Great Awakening]] challenged established authority and created networks across colonies. After independence, disestablishment expanded denominational competition. The [[../Period 4/Second Great Awakening]] emphasized conversion and moral agency, helping energize [[Antebellum Reform]], abolition, temperance, and women's activism. At the same time, white Christians divided over slavery, and enslaved people developed religious practices that combined Christian teachings with communal survival and resistance.
 
 ## Pluralism and Politics
 
@@ -18,7 +18,7 @@ Immigration increased Catholic, Jewish, and later Muslim, Hindu, Buddhist, and o
 
 ## Revival, Voluntary Action, and Reform
 
-The disestablishment of churches after independence did not remove religion from public life. It encouraged denominations to compete for adherents through preaching, publications, schools, missions, and voluntary societies. The [[Second Great Awakening]] flourished in this environment, teaching many Protestants that individuals could choose conversion and act to improve society. Its networks fed temperance, abolition, education, and other forms of [[Antebellum Reform]].
+The disestablishment of churches after independence did not remove religion from public life. It encouraged denominations to compete for adherents through preaching, publications, schools, missions, and voluntary societies. The [[../Period 4/Second Great Awakening]] flourished in this environment, teaching many Protestants that individuals could choose conversion and act to improve society. Its networks fed temperance, abolition, education, and other forms of [[Antebellum Reform]].
 
 Religious conviction did not lead to one politics. Proslavery and antislavery Christians interpreted scripture differently, and disputes over slavery split major denominations along sectional lines. Black churches became autonomous institutions that sustained community, education, abolition, and later civil rights organizing. Women supplied much of the labor in religious associations while often being denied formal clerical authority. Religion could challenge hierarchy while reproducing it.
 

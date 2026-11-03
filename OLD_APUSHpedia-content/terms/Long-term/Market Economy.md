@@ -10,7 +10,7 @@ status: stub
 
 ## APUSH Significance
 
-The colonial [[Atlantic Economy]] tied mainland production to imperial trade and slavery. During the early nineteenth-century [[Market Revolution]], canals, roads, railroads, banks, and communication networks lowered the cost of exchange and promoted regional specialization. Commercial opportunity expanded, but dependence on distant prices and credit exposed farmers and workers to panics. Markets also strengthened [[Chattel Slavery]] as cotton became the nation's leading export, showing that growing exchange did not necessarily produce free labor.
+The colonial [[Atlantic Economy]] tied mainland production to imperial trade and slavery. During the early nineteenth-century [[../Period 4/Market Revolution]], canals, roads, railroads, banks, and communication networks lowered the cost of exchange and promoted regional specialization. Commercial opportunity expanded, but dependence on distant prices and credit exposed farmers and workers to panics. Markets also strengthened [[../Period 2/Chattel Slavery]] as cotton became the nation's leading export, showing that growing exchange did not necessarily produce free labor.
 
 ## Government, Growth, and Inequality
 
@@ -20,7 +20,7 @@ Industrial corporations, national distribution, consumer credit, and finance mad
 
 Markets depend on rules rather than existing outside government. Contract and property law define what may be exchanged and how agreements are enforced. Currency, banks, and credit allow transactions across distance and time. Roads, canals, ports, railroads, and communication systems connect buyers to sellers. The government also decides whether certain things—such as enslaved people, public land, or patented knowledge—may be treated as property. Political choices therefore shape the boundaries and distributional effects of exchange.
 
-The early republic exposed these choices. Hamilton's financial program sought reliable public credit and a national bank, while Jeffersonians feared concentrated financial power. During the [[Market Revolution]], state investment and federal land policy helped integrate local economies, even as disputes over tariffs, internal improvements, and banking fueled the [[Second Party System]]. The [[Bank War]] was not an argument for or against all markets; it concerned which institutions should govern money and whose interests those institutions served.
+The early republic exposed these choices. Hamilton's financial program sought reliable public credit and a national bank, while Jeffersonians feared concentrated financial power. During the [[../Period 4/Market Revolution]], state investment and federal land policy helped integrate local economies, even as disputes over tariffs, internal improvements, and banking fueled the [[Second Party System]]. The [[Bank War]] was not an argument for or against all markets; it concerned which institutions should govern money and whose interests those institutions served.
 
 ## Freedom, Coercion, and Regulation
 

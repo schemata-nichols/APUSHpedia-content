@@ -10,7 +10,7 @@ status: stub
 
 ## APUSH Significance
 
-European livestock, plants, diseases, and commercial extraction reshaped colonial environments, while plantation agriculture depleted soils and encouraged expansion onto new land. During the nineteenth century, canals, railroads, mining, commercial farming, and the destruction of bison supported [[Westward Expansion]] and the [[Market Revolution]] while undermining Native economies and sovereignty. Federal land policy treated much western land as a resource for settlement and business, even though aridity and existing Native claims complicated the image of an empty frontier.
+European livestock, plants, diseases, and commercial extraction reshaped colonial environments, while plantation agriculture depleted soils and encouraged expansion onto new land. During the nineteenth century, canals, railroads, mining, commercial farming, and the destruction of bison supported [[Westward Expansion]] and the [[../Period 4/Market Revolution]] while undermining Native economies and sovereignty. Federal land policy treated much western land as a resource for settlement and business, even though aridity and existing Native claims complicated the image of an empty frontier.
 
 ## Development and Response
 

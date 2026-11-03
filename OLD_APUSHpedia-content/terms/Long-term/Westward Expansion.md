@@ -31,7 +31,7 @@ The [[../../../terms/Period 4/Louisiana Purchase]] doubled the nation's claimed 
 
 ## Market Growth and Removal
 
-The [[Market Revolution]] increased the value of western land. Roads, canals, steamboats, and later railroads connected farmers to distant buyers. Federal land sales and credit encouraged both family settlement and speculation, while commercial agriculture transformed forests, waterways, and grasslands.
+The [[../Period 4/Market Revolution]] increased the value of western land. Roads, canals, steamboats, and later railroads connected farmers to distant buyers. Federal land sales and credit encouraged both family settlement and speculation, while commercial agriculture transformed forests, waterways, and grasslands.
 
 In the Southeast, cotton profits intensified white demand for Native homelands. The [[Indian Removal]] Act and coercive treaties displaced Cherokee, Muscogee, Choctaw, Chickasaw, and Seminole people toward Indian Territory. Removal joined racial ideology to the expansion of the [[Cotton Kingdom]] and slavery.
 

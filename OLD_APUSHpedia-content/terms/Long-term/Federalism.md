@@ -7,7 +7,7 @@ apush-priority: 5
 status: stub
 ---
 
-> **Federalism** is a constitutional system in which authority is divided between a national government and state governments, each acting directly on the people. The United States adopted federalism when the Constitution replaced the state-dominated [[Articles of Confederation]] with a stronger but limited national government. The location of power has never remained fixed. Courts, elections, wars, economic crises, [[Social Movements|social movements]], and legislation have repeatedly altered the balance. For APUSH, federalism is not simply a list of delegated and reserved powers; it is the institutional setting for conflicts over economic development, [[Slavery|slavery]], Native sovereignty, [[Civil Rights|civil rights]], social welfare, and whether national standards or local control better protect liberty.
+> **Federalism** is a constitutional system in which authority is divided between a national government and state governments, each acting directly on the people. The United States adopted federalism when the Constitution replaced the state-dominated [[../Period 3/Articles of Confederation]] with a stronger but limited national government. The location of power has never remained fixed. Courts, elections, wars, economic crises, [[Social Movements|social movements]], and legislation have repeatedly altered the balance. For APUSH, federalism is not simply a list of delegated and reserved powers; it is the institutional setting for conflicts over economic development, [[Slavery|slavery]], Native sovereignty, [[Civil Rights|civil rights]], social welfare, and whether national standards or local control better protect liberty.
 
 ## APUSH Significance
 
@@ -31,7 +31,7 @@ These provisions created a framework rather than a precise boundary. Some powers
 
 ## Early Constitutional Conflict
 
-[[Alexander Hamilton]]'s financial program produced an early argument over implied power. Hamilton claimed that Congress could create the [[First Bank of the United States]] as a useful means of exercising fiscal powers. [[Thomas Jefferson]] argued for a narrower reading because the Constitution did not expressly authorize a bank.
+[[Alexander Hamilton]]'s financial program produced an early argument over implied power. Hamilton claimed that Congress could create the [[First Bank of the United States]] as a useful means of exercising fiscal powers. [[../Period 3/Thomas Jefferson]] argued for a narrower reading because the Constitution did not expressly authorize a bank.
 
 In [[McCulloch v. Maryland]], the [[Marshall Court]] upheld the Second Bank and ruled that Maryland could not tax it. Chief Justice John Marshall interpreted the Necessary and Proper Clause broadly and treated state interference with a valid federal institution as inconsistent with national supremacy. [[Gibbons v. Ogden]] similarly strengthened federal authority over interstate commerce.
 

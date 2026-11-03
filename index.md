@@ -4,13 +4,13 @@ alias: APUSHpedia
 status: checked
 author: Tianxia Wang
 ---
-> You may return to this page by clicking [APUSHpedia](<index 1.md>) in the top-left corner.
+> You may return to this page by clicking [APUSHpedia](<index.md>) in the top-left corner.
 
 ## Description
 
 0. Greetings.
 
-1. [APUSHpedia](<index 1.md>) is a project under [Schemata](https://schemata-nichols.github.io/), a student-led association under [Nichols School](https://www.nicholsschool.org/).
+1. [APUSHpedia](<index.md>) is a project under [Schemata](https://schemata-nichols.github.io/), a student-led association under [Nichols School](https://www.nicholsschool.org/).
 
 2. APUSHpedia aims to organize [(AP) United States History](https://apstudents.collegeboard.org/courses/ap-united-states-history)  in a [Wikipedia](https://www.wikipedia.org/)-like form for students and educators.
 
@@ -26,8 +26,6 @@ I suppose we will put some guide pages here soon enough!
 
 ## List of Contributors
 
-### Long-term
-
 Tianxia Wang, '27 (Student)
 - Founder/Initiator; 
 - Representative of Schemata; and
@@ -38,6 +36,8 @@ Ashley Tibollo (Educator)
 - Consultant for US History; and
 - Content contributor.
 
-### Other
+### By catagories:
 
-TODO. You may be the next one! \*heart\*
+There are plenties of students submitted their terms, and we are organizing those currently. After they are organized, names of those contributors will appear here. 
+
+Deeply appreciated.

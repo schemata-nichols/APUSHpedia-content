@@ -7,7 +7,7 @@ apush-priority: 4
 status: stub
 ---
 
-> The **labor movement** is the long effort by workers to improve wages, hours, safety, dignity, and bargaining power through unions, strikes, political action, and legislation. It grew as the [[Market Revolution]] and [[Industrialization]] moved more workers into wage labor and concentrated authority in employers. Workers sometimes built broad alliances, but divisions of skill, race, gender, immigration status, industry, and ideology repeatedly limited solidarity. For APUSH, labor history reveals that industrial growth was negotiated through conflict rather than simply produced by invention and investment.
+> The **labor movement** is the long effort by workers to improve wages, hours, safety, dignity, and bargaining power through unions, strikes, political action, and legislation. It grew as the [[../Period 4/Market Revolution]] and [[Industrialization]] moved more workers into wage labor and concentrated authority in employers. Workers sometimes built broad alliances, but divisions of skill, race, gender, immigration status, industry, and ideology repeatedly limited solidarity. For APUSH, labor history reveals that industrial growth was negotiated through conflict rather than simply produced by invention and investment.
 
 ## APUSH Significance
 

@@ -22,7 +22,7 @@ The important distinction is between **civil rights**, which concern equal treat
 
 ## Founding Ideals and Exclusion
 
-The [[Declaration of Independence]] announced equality and [[Natural Rights|natural rights]], but the new nation preserved slavery and left most voting qualifications to states. Free Black people built communities and claimed rights, yet federal naturalization law initially limited access to white immigrants. Women were citizens in a broad sense but lacked equal political and legal standing.
+The [[../Period 3/Declaration of Independence]] announced equality and [[Natural Rights|natural rights]], but the new nation preserved slavery and left most voting qualifications to states. Free Black people built communities and claimed rights, yet federal naturalization law initially limited access to white immigrants. Women were citizens in a broad sense but lacked equal political and legal standing.
 
 Native nations possessed their own sovereignty rather than simply occupying a place within United States civil society. Territorial expansion, coerced treaties, and [[Indian Removal]] denied their collective rights even when federal law formally recognized a government-to-government relationship.
 

@@ -22,7 +22,7 @@ The important analytical distinction is between **civic ideals**, which define t
 
 ## Revolution and the New Republic
 
-Before independence, British North American colonists usually identified strongly with colony, region, religion, and the British Empire. Imperial conflict after the [[French and Indian War]] encouraged cooperation and a shared language of rights. The [[Declaration of Independence]] asserted that governments derived power from the consent of the governed, giving the new nation a universal-sounding explanation for its existence.
+Before independence, British North American colonists usually identified strongly with colony, region, religion, and the British Empire. Imperial conflict after the [[French and Indian War]] encouraged cooperation and a shared language of rights. The [[../Period 3/Declaration of Independence]] asserted that governments derived power from the consent of the governed, giving the new nation a universal-sounding explanation for its existence.
 
 The Revolution did not make membership universal. Enslaved people remained in bondage, Native nations retained their own sovereignties, and women lacked equal political rights. The Constitution counted and governed populations differently while leaving voting qualifications largely to states. Even so, republican institutions and written declarations supplied standards later movements could turn against exclusion.
 

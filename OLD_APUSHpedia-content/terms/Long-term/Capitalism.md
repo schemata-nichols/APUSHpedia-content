@@ -22,7 +22,7 @@ The essential distinction is between capitalism and a completely unregulated eco
 
 ## Commercial Foundations
 
-Colonial economies participated in an Atlantic system of trade, credit, land speculation, and commodity production. Merchants pursued profit across imperial boundaries, while plantations produced tobacco, rice, indigo, and sugar-related goods through enslaved labor. [[Mercantilism]] attempted to direct that commerce toward imperial goals, but it did not eliminate private enterprise.
+Colonial economies participated in an Atlantic system of trade, credit, land speculation, and commodity production. Merchants pursued profit across imperial boundaries, while plantations produced tobacco, rice, indigo, and sugar-related goods through enslaved labor. [[../Period 2/Mercantilism]] attempted to direct that commerce toward imperial goals, but it did not eliminate private enterprise.
 
 After independence, federal and state governments created conditions for a national market. The Constitution protected contracts, authorized taxation and commerce regulation, and prevented states from issuing their own currencies. [[Alexander Hamilton]]'s financial program funded the national debt and created the [[First Bank of the United States]], connecting public credit to private investment. Critics feared that financiers and speculators would gain power over farmers and local communities.
 
@@ -30,7 +30,7 @@ Territorial growth also mattered. Federal land policy transferred Native homelan
 
 ## The Market Revolution and [[Slavery]]
 
-The [[Market Revolution]] connected farms and towns through canals, roads, steamboats, railroads, banks, and the [[Telegraph|telegraph]]. Commercial farmers produced for distant buyers, factories centralized some manufacturing, and wage labor grew. These changes expanded opportunity and consumption but made households more vulnerable to market prices, unemployment, and financial panics.
+The [[../Period 4/Market Revolution]] connected farms and towns through canals, roads, steamboats, railroads, banks, and the [[Telegraph|telegraph]]. Commercial farmers produced for distant buyers, factories centralized some manufacturing, and wage labor grew. These changes expanded opportunity and consumption but made households more vulnerable to market prices, unemployment, and financial panics.
 
 Capitalism did not displace slavery during this expansion. The [[Cotton Kingdom]] grew as international textile demand made enslaved labor and land increasingly profitable. Enslaved people were treated simultaneously as workers, property, and collateral. Northern merchants, insurers, shippers, banks, and manufacturers benefited from slave-produced cotton. The free-labor North and slaveholding South developed different labor ideologies while remaining economically connected.
 

@@ -122,7 +122,7 @@ Terms are assigned one primary home only. A term belongs in **Long-term** when i
 - [[British Colonization]]
 - [[Regional Differences in the British Colonies]]
 - [[Atlantic Economy]]
-- [[Chattel Slavery]]
+- [[../terms/Period 2/Chattel Slavery]]
 - [[Colonial Society]]
 
 ### Priority 4
@@ -133,7 +133,7 @@ Terms are assigned one primary home only. A term belongs in **Long-term** when i
 - [[Middle Colonies]]
 - [[Southern Colonies]]
 - [[Puritanism]]
-- [[Mercantilism]]
+- [[../terms/Period 2/Mercantilism]]
 - [[Navigation Acts]]
 - [[Salutary Neglect]]
 - [[First Great Awakening]]
@@ -185,8 +185,8 @@ Terms are assigned one primary home only. A term belongs in **Long-term** when i
 
 - [[French and Indian War]]
 - [[American Revolution]]
-- [[Declaration of Independence]]
-- [[Articles of Confederation]]
+- [[../terms/Period 3/Declaration of Independence]]
+- [[../terms/Period 3/Articles of Confederation]]
 - [[United States Constitution]]
 - [[Ratification Debate]]
 
@@ -204,7 +204,7 @@ Terms are assigned one primary home only. A term belongs in **Long-term** when i
 - [[Treaty of Paris of 1783]]
 - [[Republican Motherhood]]
 - [[Land Ordinance of 1785]]
-- [[Northwest Ordinance of 1787]]
+- [[../terms/Period 3/Northwest Ordinance of 1787]]
 - [[Shays' Rebellion]]
 - [[Constitutional Convention]]
 - [[Great Compromise]]
@@ -214,7 +214,7 @@ Terms are assigned one primary home only. A term belongs in **Long-term** when i
 - [[Bill of Rights]]
 - [[George Washington]]
 - [[Alexander Hamilton]]
-- [[Thomas Jefferson]]
+- [[../terms/Period 3/Thomas Jefferson]]
 - [[First Party System]]
 - [[First Bank of the United States]]
 - [[Alien and Sedition Acts]]
@@ -258,9 +258,9 @@ Terms are assigned one primary home only. A term belongs in **Long-term** when i
 
 ### Priority 5
 
-- [[Market Revolution]]
+- [[../terms/Period 4/Market Revolution]]
 - [[Jacksonian Democracy]]
-- [[Second Great Awakening]]
+- [[../terms/Period 4/Second Great Awakening]]
 - [[Antebellum Reform]]
 - [[Indian Removal]]
 

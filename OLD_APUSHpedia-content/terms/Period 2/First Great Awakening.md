@@ -15,7 +15,7 @@ Itinerant ministers and inexpensive print allowed revival messages to circulate 
 
 ## Authority and Comparison
 
-By inviting ordinary believers to judge spiritual authority, the Awakening contributed to a broader colonial culture willing to question inherited institutions. Its intercolonial networks also created limited common ground among otherwise distinct colonies. Historians nevertheless avoid claiming that revivalism directly produced revolution decades later. The First Great Awakening should also be distinguished from the [[Second Great Awakening]], which unfolded in the early republic, expanded mass evangelical denominations, and became closely connected to [[Antebellum Reform]]. Both emphasized conversion, but they operated in different political and social settings.
+By inviting ordinary believers to judge spiritual authority, the Awakening contributed to a broader colonial culture willing to question inherited institutions. Its intercolonial networks also created limited common ground among otherwise distinct colonies. Historians nevertheless avoid claiming that revivalism directly produced revolution decades later. The First Great Awakening should also be distinguished from the [[../Period 4/Second Great Awakening]], which unfolded in the early republic, expanded mass evangelical denominations, and became closely connected to [[Antebellum Reform]]. Both emphasized conversion, but they operated in different political and social settings.
 
 ## Revival and Communication
 
@@ -31,7 +31,7 @@ Evangelical growth could cross colonial borders and create common experiences, b
 
 ## Comparison with the Second Awakening
 
-The [[Second Great Awakening]] began in the early republic and placed greater emphasis in many regions on free will, mass voluntary organization, and the possibility of improving society. It fed temperance, abolition, missions, and other forms of [[Antebellum Reform]] on a scale distinct from the earlier movement. The First Great Awakening occurred within British colonial society and focused more directly on conversion and church authority.
+The [[../Period 4/Second Great Awakening]] began in the early republic and placed greater emphasis in many regions on free will, mass voluntary organization, and the possibility of improving society. It fed temperance, abolition, missions, and other forms of [[Antebellum Reform]] on a scale distinct from the earlier movement. The First Great Awakening occurred within British colonial society and focused more directly on conversion and church authority.
 
 Both awakenings used itinerant preaching, emotion, print, and voluntary choice to challenge established religious patterns. The strongest comparison identifies their different historical settings and institutional consequences instead of treating all American revivals as one continuous event.
 
