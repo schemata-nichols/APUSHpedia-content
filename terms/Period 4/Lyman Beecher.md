@@ -24,4 +24,4 @@ Historical Era, Period 4: 1800-1848
 
 Category: Person
 
-One image attached.
+[https://drive.google.com/open?id=1PtQnMi5WdWDxUTIK81Lhs9394U3JDKEV](https://drive.google.com/open?id=1PtQnMi5WdWDxUTIK81Lhs9394U3JDKEV)

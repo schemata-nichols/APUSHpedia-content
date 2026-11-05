@@ -6,7 +6,7 @@ apush-priority: 4
 status: stub
 ---
 
-> **Environmental change** in APUSH is the transformation of land, water, ecosystems, and resource use through human activity, together with the ways geography shapes human choices. Native agriculture and controlled burning altered environments before European arrival; the [[Columbian Exchange]], settler expansion, industrialization, and urban growth then accelerated ecological change. Environmental history is not separate from political or economic history: control of land and resources structured migration, Native dispossession, labor systems, and federal policy. The central analytical question is who gained from environmental transformation, who bore its costs, and how those consequences prompted conservation or regulation.
+> **Environmental change** in APUSH is the transformation of land, water, ecosystems, and resource use through human activity, together with the ways geography shapes human choices. Native agriculture and controlled burning altered environments before European arrival; the [[../Period 1/Columbian Exchange]], settler expansion, industrialization, and urban growth then accelerated ecological change. Environmental history is not separate from political or economic history: control of land and resources structured migration, Native dispossession, labor systems, and federal policy. The central analytical question is who gained from environmental transformation, who bore its costs, and how those consequences prompted conservation or regulation.
 
 ## APUSH Significance
 

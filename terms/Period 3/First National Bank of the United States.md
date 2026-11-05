@@ -24,5 +24,4 @@ Historical Era, Period 3: 1754-1800
 
 Category: Economic Development
 
-One image attached.
-
+[https://drive.google.com/open?id=1z7ydlPOvIfPOBWS1MYGBSbuVESgP-uD1](https://drive.google.com/open?id=1z7ydlPOvIfPOBWS1MYGBSbuVESgP-uD1)
