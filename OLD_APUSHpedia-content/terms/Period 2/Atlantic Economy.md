@@ -19,7 +19,7 @@ The Atlantic economy connects colonial regions to global processes:
 4. **Empire regulated exchange.** [[Mercantilism]] and the [[Navigation Acts]] attempted to keep colonial commerce within British channels.
 5. **Consumption influenced identity and protest.** Imported goods connected colonists to Britain and later became targets of political boycotts.
 
-The Atlantic economy differs from the [[Columbian Exchange]], which emphasizes biological and cultural transfers after contact. It also differs from [[Triangular Trade]], a simplified model of particular routes within the larger network.
+The Atlantic economy differs from the [[../Period 1/Columbian Exchange]], which emphasizes biological and cultural transfers after contact. It also differs from [[Triangular Trade]], a simplified model of particular routes within the larger network.
 
 ## Regional Production
 

@@ -77,7 +77,7 @@ Terms are assigned one primary home only. A term belongs in **Long-term** when i
 ### Priority 5
 
 - [[Native American Societies Before European Contact]]
-- [[Columbian Exchange]]
+- [[../terms/Period 1/Columbian Exchange]]
 - [[Spanish Colonization]]
 
 ### Priority 4

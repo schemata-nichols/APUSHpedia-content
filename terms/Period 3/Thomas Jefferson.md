@@ -25,5 +25,5 @@ Historical Era, Period 3: 1754-1800
 
 Category: Person
 
-One image attached.
+[https://drive.google.com/open?id=1mIKxb9OHcYahOubPWS_JXCGlU0zG3nQf](https://drive.google.com/open?id=1mIKxb9OHcYahOubPWS_JXCGlU0zG3nQf)
 

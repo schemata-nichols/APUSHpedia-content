@@ -25,5 +25,3 @@ Historical Era, Period 4: 1800-1848
 
 Category: Political Event
 
-One image attached.
-

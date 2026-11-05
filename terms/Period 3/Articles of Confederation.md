@@ -25,5 +25,4 @@ Historical Era, Period 3: 1754-1800
 
 Category: Document or Law
 
-One image attached.
-
+[https://drive.google.com/open?id=1WRRiXUQEJVPbsu3pZwQfgohHegjlT3xO](https://drive.google.com/open?id=1WRRiXUQEJVPbsu3pZwQfgohHegjlT3xO)

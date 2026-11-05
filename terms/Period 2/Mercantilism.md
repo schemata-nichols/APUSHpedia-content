@@ -29,5 +29,4 @@ Historical Era, Period 2: 1607-1754
 
 Category: Economic Development
 
-One image attached.
-
+[https://drive.google.com/open?id=1gzbJvCedRJjY3XZHSddhLGFv22qBClji](https://drive.google.com/open?id=1gzbJvCedRJjY3XZHSddhLGFv22qBClji)
