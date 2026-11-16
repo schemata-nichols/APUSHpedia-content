@@ -1,0 +1,214 @@
+{
+    "T-0100": {
+        "name": "Test Term",
+        "references": {
+            "APUSH-CED-2026": {
+                "topics": []
+            },
+            "GML": {
+                "indexed": false
+            }
+        }
+    },
+    "T-1000": {
+        "name": "Erie Canal"
+    },
+    "T-1001": {
+        "name": "Freedom of expression"
+    },
+    "T-1002": {
+        "name": "Freedom of Speech"
+    },
+    "T-1003": {
+        "name": "Albany Plan of Union"
+    },
+    "T-1004": {
+        "name": "Sugar Act of 1764"
+    },
+    "T-1005": {
+        "name": "Vice-admiralty Courts"
+    },
+    "T-1006": {
+        "name": "Stamp Act"
+    },
+    "T-1007": {
+        "name": "Virtual Representation"
+    },
+    "T-1008": {
+        "name": "Quartering Act"
+    },
+    "T-1009": {
+        "name": "Stamp Act Congress"
+    },
+    "T-100A": {
+        "name": "Sons of Liberty"
+    },
+    "T-100B": {
+        "name": "Natural Rights"
+    },
+    "T-100C": {
+        "name": "Declaratory Act"
+    },
+    "T-100D": {
+        "name": "Townshend Acts"
+    },
+    "T-100E": {
+        "name": "Nonimportation Movement"
+    },
+    "T-100F": {
+        "name": "Committees of correspondence"
+    },
+    "T-1010": {
+        "name": "Coercive Acts"
+    },
+    "T-1011": {
+        "name": "Continental Association"
+    },
+    "T-1012": {
+        "name": "Second Continental Congress"
+    },
+    "T-1013": {
+        "name": "Declaration of Independence"
+    },
+    "T-1014": {
+        "name": "Samuel Adams"
+    },
+    "T-1015": {
+        "name": "Thomas Paine"
+    },
+    "T-1016": {
+        "name": "Thomas Jefferson"
+    },
+    "T-1017": {
+        "name": "Battle of Saratoga"
+    },
+    "T-1018": {
+        "name": "Battle of Yorktown"
+    },
+    "T-1019": {
+        "name": "Treaty of Paris of 1783"
+    },
+    "T-101A": {
+        "name": "Articles of Confederation"
+    },
+    "T-101B": {
+        "name": "Northwest Ordinance of 1787"
+    },
+    "T-101C": {
+        "name": "Shay's Rebellion"
+    },
+    "T-101D": {
+        "name": "Virginia Plan"
+    },
+    "T-101E": {
+        "name": "New Jersey Plan"
+    },
+    "T-101F": {
+        "name": "Federalists"
+    },
+    "T-1020": {
+        "name": "Antifederalists"
+    },
+    "T-1021": {
+        "name": "George Washington"
+    },
+    "T-1022": {
+        "name": "James Madison"
+    },
+    "T-1023": {
+        "name": "Judiciary Act of 1789"
+    },
+    "T-1024": {
+        "name": "Bill of Rights"
+    },
+    "T-1025": {
+        "name": "Report on the Public Credit"
+    },
+    "T-1026": {
+        "name": "Bank of the United States"
+    },
+    "T-1027": {
+        "name": "Proclamation of Neutrality"
+    },
+    "T-1028": {
+        "name": "French Revolution"
+    },
+    "T-1029": {
+        "name": "Whiskey Rebellion"
+    },
+    "T-102A": {
+        "name": "Jay's Treaty"
+    },
+    "T-102B": {
+        "name": "XYZ Affair"
+    },
+    "T-102C": {
+        "name": "Alien and Sedition Acts"
+    },
+    "T-102D": {
+        "name": "Virginia and Kentucky Resolutions"
+    },
+    "T-102E": {
+        "name": "Treaty of Greenville"
+    },
+    "T-102F": {
+        "name": "Compassionate Marriages"
+    },
+    "T-1030": {
+        "name": "Republican Motherhood"
+    },
+    "T-1031": {
+        "name": "Alexander Hamilton"
+    },
+    "T-1032": {
+        "name": "John Adams"
+    },
+    "T-1033": {
+        "name": "Daughters of Liberty"
+    },
+    "T-1034": {
+        "name": "Boston Massacre"
+    },
+    "T-1035": {
+        "name": "Boston Tea Party"
+    },
+    "T-1036": {
+        "name": "Crispus Attucks"
+    },
+    "T-1037": {
+        "name": "Common Sense"
+    },
+    "T-1038": {
+        "name": "Electoral College"
+    },
+    "T-1039": {
+        "name": "Pinckney's Treaty"
+    },
+    "T-103A": {
+        "name": "Democratic-Republicans"
+    },
+    "T-103B": {
+        "name": "Loyalist"
+    },
+    "T-103C": {
+        "name": "Abolition"
+    },
+    "T-103D": {
+        "name": "Checks and balances"
+    },
+    "T-103E": {
+        "name": "Separation of powers"
+    },
+    "T-103F": {
+        "name": "Three-fifths clause"
+    },
+    "T-1040": {
+        "name": "The Federalist Papers"
+    },
+    "T-1041": {
+        "name": "Strict Construction"
+    },
+    "T-1042": {
+        "name": "Impressment"
+    }
+}
